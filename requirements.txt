@@ -1,0 +1,11 @@
+opencv
+numpy
+matplotlib
+keras
+tensorflow
+pandas
+pillow
+skimage
+seaborn
+pathlib
+sklearn
